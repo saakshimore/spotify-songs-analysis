@@ -1,5 +1,5 @@
 # spotify-songs-analysis
-Using a dataset of 52k songs, better understand what makes music popular as well as the audio features that make up specific genres. Our final report answers the following questions:
+Using a dataset of 52k songs, better understand what makes music popular as well as the audio features that make up specific genres. Our final report (found under `final_report.pdf') answers the following questions:
 1) Is there a relationship between song length and popularity of a song? If so, is it positive or negative?
 2) Are explicitly rated songs more popular than songs that are not explicit?
 3) Are songs in major key more popular than songs in minor key?
@@ -25,3 +25,6 @@ songs), on the basis of the popularity based model?
 mixtape contains individualized recommendations as to which 10 songs (out of the 5k) a given user
 will enjoy most. How do these recommendations compare to the “greatest hits” from the previous
 question and how good is your recommender system in making recommendations?
+
+The code used for analysis is under `code.ipynb`.
+
